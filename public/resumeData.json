@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Abdullah Mujahid",
+    "occupation": "Associate Software Engineer",
+    "description": " Carte Blanche",
+    "image": "abd.png",
+    "bio": "Hi there! My name is Abdullah Mujahid! You might also know me as Addy Paladin. I've been coding for over 5 years now. I am An Associate Software Engineer at Carte Blanche. Other than that I am  also a researcher who loves to explore and learn more about Artifical Intelligence, recently I wrote an article on Hand Gesture Recognition using Yolo v3 which is published at MDPI. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have learned a number of programming languages.",
+    "contactmessage": "Get in touch with me",
+    "email": "abdullahmujahidali1@gmail.com",
+    "phone": "+92322 9437619",
+
+    "address": {
+      "street": "Plot # 50-A, Block G Phase 1 Johar Town",
+      "city": "Lahore",
+      "state": "Punjab",
+      "zip": "54700"
+    },
+    "website": "https://bbrains.herokuapp.com/",
+    "resumedownload": "https://drive.google.com/file/d/1JcOmAqsuPiXuBAfuL8hH00ozwQDArmiI/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC2xO3s_j_JkY2hC_737ggcQ",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/m.abdullahmujahid",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abdullah-mujahid-211849186/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/abdullahmujahidali/?hl=en",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/abdullahmujahidali",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Management & Technology - Pakistan",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "August 2021",
+        "description": "Graduated with First Class Honours"
+      },
+      {
+        "school": "University of Cambridge - United Kingdom",
+        "degree": "Advanced Level Studies",
+        "graduated": "November 2016",
+        "description": "(A) in Mathematics and (B) in Physics and Chemistry"
+      },
+      {
+        "school": "Fatima Memorial Hospital - Pakistan",
+        "degree": "CDNE",
+        "graduated": "August 2018",
+        "description": "1 Credit Hour on Wound Healing on NUR-FMS School of Nutrition - CDNE"
+      }
+    ],
+    "work": [
+      {
+        "company": "Carte Blanche",
+        "title": "Associate Software Engineer",
+        "years": "May 2021 - Present",
+        "description": "Full Stack Developer for Product Design Team"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "79%"
+      },
+      {
+        "name": "Artificial Intelligence",
+        "level": "68%"
+      },
+      {
+        "name": "Data Science",
+        "level": "74%"
+      },
+      {
+        "name": "React Native",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Big Brains (E-learning Social Network)",
+        "category": "",
+        "image": "snapchat.jpg",
+        "url": "https://bbrains.herokuapp.com/"
+      },
+      {
+        "title": "Hand Gesture Recognition (Deep Learning)",
+        "category": "",
+        "image": "hgs.png",
+        "url": "https://www.youtube.com/watch?v=0U1XK2Tydb0"
+      },
+      {
+        "title": "Connexion (Developers Social Media )",
+        "category": "",
+        "image": "salvador.png",
+        "url": "https://github.com/abdullahmujahidali/Salvador"
+      },
+      {
+        "title": "American Sign Language",
+        "category": "",
+        "image": "asl.png",
+        "url": "https://www.youtube.com/watch?v=-3JNnClKCFA"
+      }
+
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Abdullah is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us",
+        "user": "Areeba Sohail"
+      },
+      {
+        "text": "",
+        "user": "Aisha Momin"
+      }
+    ]
+  }
+}
