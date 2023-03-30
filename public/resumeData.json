@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Abdullah Mujahid",
-    "occupation": "Associate Software Engineer",
+    "occupation": "Senior Full Stack Software Engineer",
     "description": " Carte Blanche",
     "image": "abd.png",
-    "bio": "Hi there! My name is Abdullah Mujahid! You might also know me as Addy Paladin. I've been coding for over 5 years now. I am An Associate Software Engineer at Carte Blanche. Other than that I am  also a researcher who loves to explore and learn more about Artifical Intelligence, recently I wrote an article on Hand Gesture Recognition using Yolo v3 which is published at MDPI. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have learned a number of programming languages.",
+    "bio": "As a full-stack software developer with over 3+ years of experience, I have a proven track record of delivering cutting-edge solutions in various industries. With extensive expertise in Web and AI products, I have worked with different tech stacks, including Django, React JS, Node JS, and JAVA, among others. I am proficient in working with AWS and designing user interfaces with UX in mind, ensuring high usability and user satisfaction. Additionally, I am always updated with new tech trends, making me a reliable and knowledgeable software developer. As a problem-solver and quick learner, I am committed to delivering high-quality solutions that meet the client's needs. I am passionate about learning and working on challenging projects while collaborating with like-minded individuals to create innovative solutions. I am eager to bring my skills and experience to any dynamic and fast-paced environment where I can contribute to the growth of a company.",
     "contactmessage": "Get in touch with me",
     "email": "abdullahmujahidali1@gmail.com",
     "phone": "+92322 9437619",
@@ -70,7 +70,7 @@
     "work": [
       {
         "company": "Carte Blanche",
-        "title": "Associate Software Engineer",
+        "title": "Senior Software Engineer",
         "years": "May 2021 - Present",
         "description": "Full Stack Developer for Product Design Team"
       }
@@ -85,7 +85,7 @@
         "level": "85%"
       },
       {
-        "name": "Git",
+        "name": "Etherium",
         "level": "70%"
       },
       {
@@ -94,7 +94,7 @@
       },
       {
         "name": "Web Development",
-        "level": "79%"
+        "level": "90%"
       },
       {
         "name": "Artificial Intelligence",
